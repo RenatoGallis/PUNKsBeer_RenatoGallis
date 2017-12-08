@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "38654RenatoGallis/BeerViewController.swift"
+            timestampString = "533933685.489622"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "BeerViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_8654RenatoGallis.BeerViewController.ivImageBeer.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "38654RenatoGallis"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user132786/Downloads/38654RenatoGallis/38654RenatoGallis/BeerViewController.swift"
+                  timestampString = "533933685.997707"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_8654RenatoGallis.BeerViewController.ivImageBeer.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "38654RenatoGallis"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user132786/Downloads/38654RenatoGallis/38654RenatoGallis/BeerViewController.swift"
+                  timestampString = "533933686.002397"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_8654RenatoGallis.BeerViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; _8654RenatoGallis.BeerViewController"
+                  moduleName = "38654RenatoGallis"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user132786/Downloads/38654RenatoGallis/38654RenatoGallis/BeerViewController.swift"
+                  timestampString = "533933686.005138"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "736">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_8654RenatoGallis.BeerViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;_8654RenatoGallis.BeerViewController&gt;"
+                  moduleName = "38654RenatoGallis"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user132786/Downloads/38654RenatoGallis/38654RenatoGallis/BeerViewController.swift"
+                  timestampString = "533933686.007207"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "628">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

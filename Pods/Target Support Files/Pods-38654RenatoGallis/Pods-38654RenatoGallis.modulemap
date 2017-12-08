@@ -1,0 +1,6 @@
+framework module Pods_38654RenatoGallis {
+  umbrella header "Pods-38654RenatoGallis-umbrella.h"
+
+  export *
+  module * { export * }
+}
